@@ -1,0 +1,23 @@
+{
+  "ident": "",
+  "log": "",
+  "perms": {
+    "admin": [
+      "snoonet/community-admin/diss"
+    ]
+  },
+  "watch": {},
+  "oper_pass": "",
+  "chans": [],
+  "oper_name": "",
+  "port": 6697,
+  "nick": "",
+  "prefix": "$",
+  "stopped": [],
+  "pass": "",
+  "reddit_user": "",
+  "reddit_pass": "",
+  "server": "irc.snoonet.org",
+  "flood_delay": 600,
+  "flood_limit": 8
+}
